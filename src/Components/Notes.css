@@ -1,0 +1,34 @@
+.container{
+    display:flex;
+    justify-content:center;
+    height:100vh;    
+}
+
+.container_button{
+    display:flex;
+    justify-content:space-between;
+}
+
+.button{
+    width:45%;
+}
+
+.container_textArea{
+    margin-top:10rem;
+
+}
+
+.container_card{
+    margin-left:40px;
+}
+
+
+.container_image{
+    position:absolute;
+    top:18rem;
+    width:10rem;
+    height:6rem;
+    margin-left:1rem;
+}
+
+
